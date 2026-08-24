@@ -45,20 +45,22 @@ async function runAutonomousWebsiteBuilderTest() {
   });
 
   console.log(`\n[4] Workflow execution finished with status: ${executionResult.status}`);
-  console.log(`    Total steps processed: ${executionResult.stepResults?.length || 0} / ${steps.length}`);
+  console.log(`    Total steps completed: ${executionResult.completedStepsCount || 0} / ${steps.length}`);
+  console.log(`    Total steps failed: ${executionResult.failedStepsCount || 0}`);
+  if (executionResult.error) {
+    console.log(`    Error: ${executionResult.error}`);
+  }
 
-  // Inspect Step Results
+  // Inspect Outputs
   let stoppedAt: string | null = null;
-  let codeGenerated = false;
-
-  for (const step of executionResult.stepResults || []) {
-    console.log(`    -> Step "${step.stepName}": Status [${step.status}] (Fallback: ${step.fallbackUsed ? 'SIMULATION_FALLBACK' : 'NONE'})`);
-    if (step.toolOutput?.generatedFiles || step.toolOutput?.files || step.toolOutput?.diff) {
-      codeGenerated = true;
-    }
-    if (step.toolOutput?.status === 'NOT_CONFIGURED') {
-      stoppedAt = `STOPPED_AT: ${step.toolId?.toUpperCase()}_NOT_CONFIGURED`;
-    }
+  const outputs = executionResult.outputs || {};
+  const codeGenerated = Boolean(
+    (outputs as Record<string, unknown>).generatedFiles ||
+    (outputs as Record<string, unknown>).files ||
+    (outputs as Record<string, unknown>).diff
+  );
+  if (!executionResult.success && executionResult.error) {
+    stoppedAt = `STOPPED_AT: ${executionResult.error}`;
   }
 
   // Final Pipeline Conclusion
