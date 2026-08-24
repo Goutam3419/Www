@@ -45,7 +45,7 @@ async function runAutonomousWebsiteBuilderTest() {
   });
 
   console.log(`\n[4] Workflow execution finished with status: ${executionResult.status}`);
-  console.log(`    Total steps processed: ${executionResult.completedSteps?.length || 0} / ${steps.length}`);
+  console.log(`    Total steps processed: ${executionResult.stepResults?.length || 0} / ${steps.length}`);
 
   // Inspect Step Results
   let stoppedAt: string | null = null;
