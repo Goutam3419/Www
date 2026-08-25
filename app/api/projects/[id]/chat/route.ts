@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { db } from '@/lib/db/store';
+import { aiCoreFacade } from '@/services/ai/core/ai-core-facade';
 
 export async function GET(
   req: NextRequest,
@@ -25,8 +26,18 @@ export async function POST(
 
     const userMsg = db.addChatMessage(id, sender, senderName, content);
 
-    // Auto CEO responsecknowledgment for foundational workflow
-    const aiResponseContent = `Requirement received for Project #${id}. Memory context updated. Ready for execution when Prompt 2 engines activate.`;
+    let aiResponseContent: string;
+    try {
+      const aiResponse = await aiCoreFacade.processRequest({
+        projectId: id,
+        userPrompt: content,
+      });
+      aiResponseContent = aiResponse.answer || 'I processed your request but had no specific answer to give.';
+    } catch (aiError: unknown) {
+      const aiErrMsg = aiError instanceof Error ? aiError.message : 'Unknown AI error';
+      aiResponseContent = `I hit an issue processing that request: ${aiErrMsg}`;
+    }
+
     const aiMsg = db.addChatMessage(id, 'AI_CEO', 'AI CEO Agent', aiResponseContent);
 
     return NextResponse.json({
