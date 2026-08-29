@@ -1,0 +1,1 @@
+class Model32:\n    pass\n

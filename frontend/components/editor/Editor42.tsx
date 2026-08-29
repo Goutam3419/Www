@@ -1,0 +1,1 @@
+export default function Editor42(){return <div>Editor 42</div>}

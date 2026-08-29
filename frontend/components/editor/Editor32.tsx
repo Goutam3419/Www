@@ -1,0 +1,1 @@
+export default function Editor32(){return <div>Editor 32</div>}

@@ -1,0 +1,1 @@
+class Model40:\n    pass\n

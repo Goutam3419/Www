@@ -1,0 +1,1 @@
+class Model47:\n    pass\n

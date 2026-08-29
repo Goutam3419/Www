@@ -1,0 +1,1 @@
+export default function P32(){return <div>Project 32</div>}

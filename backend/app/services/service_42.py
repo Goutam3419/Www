@@ -1,0 +1,1 @@
+class Service42:\n    def run(self):\n        return 42\n

@@ -1,1 +1,1 @@
-# supabase note 2\n
+# supabase 2\n

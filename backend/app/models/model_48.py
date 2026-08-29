@@ -1,0 +1,1 @@
+class Model48:\n    pass\n

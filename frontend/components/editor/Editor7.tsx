@@ -1,0 +1,1 @@
+export default function Editor7(){return <div>Editor 7</div>}

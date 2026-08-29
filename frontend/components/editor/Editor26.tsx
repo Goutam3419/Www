@@ -1,0 +1,1 @@
+export default function Editor26(){return <div>Editor 26</div>}

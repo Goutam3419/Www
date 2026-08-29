@@ -1,1 +1,1 @@
-# qa note 2\n
+# qa 2\n
