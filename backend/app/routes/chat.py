@@ -1,12 +1,7 @@
 from fastapi import APIRouter
+from app.services.gemini import ask_gemini
 router=APIRouter()
 @router.post("/chat")
-def chat():
-    return {
-      "planner":"ready",
-      "coder":"ready",
-      "github":"ready",
-      "supabase":"ready",
-      "vercel":"ready",
-      "qa":"ready"
-    }
+def chat(body:dict):
+    prompt=body.get("prompt","")
+    return {"reply":ask_gemini(prompt)}

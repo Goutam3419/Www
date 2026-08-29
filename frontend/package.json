@@ -1,1 +1,11 @@
-{"name":"ai-builder","private":true,"scripts":{"dev":"next dev"},"dependencies":{"next":"latest","react":"19","react-dom":"19","@supabase/supabase-js":"latest"}}
+{
+ "name":"ai-builder",
+ "private":true,
+ "scripts":{"dev":"next dev","build":"next build","start":"next start"},
+ "dependencies":{
+   "next":"latest",
+   "react":"19",
+   "react-dom":"19",
+   "@supabase/supabase-js":"latest"
+ }
+}
