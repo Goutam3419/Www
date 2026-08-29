@@ -1,2 +1,2 @@
-# AI Builder v7
-Real GitHub App integration foundation.
+# AI Builder v8
+Supabase Management API integration foundation.

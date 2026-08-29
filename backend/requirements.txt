@@ -1,6 +1,5 @@
 fastapi
 uvicorn
 httpx
-PyJWT
-cryptography
+supabase
 python-dotenv
