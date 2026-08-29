@@ -1,1 +1,1 @@
-# ZIP20 Planner Agent Foundation
+# ZIP21 Intent + Sitemap + Blueprint

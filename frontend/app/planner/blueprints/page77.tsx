@@ -1,0 +1,1 @@
+export default function Page(){return <main className='p-6'><h1>Blueprint 77</h1></main>}
