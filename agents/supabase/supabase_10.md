@@ -1,1 +1,1 @@
-# supabase 10\n
+# supabase 10

@@ -1,1 +1,1 @@
-export default function ChatComp16(){return <div>ChatComp 16</div>}
+export default function ChatComp16(){return <div>Chat 16</div>}

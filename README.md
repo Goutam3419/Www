@@ -1,2 +1,2 @@
-# AI Builder R3
-Expanded integration scaffold.
+# AI Builder FINAL
+Final scaffold with orchestrator, Docker, env templates and production folder layout.

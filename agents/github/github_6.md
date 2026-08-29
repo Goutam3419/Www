@@ -1,1 +1,1 @@
-# github 6\n
+# github 6

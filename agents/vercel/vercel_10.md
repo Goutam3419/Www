@@ -1,1 +1,1 @@
-# vercel 10\n
+# vercel 10

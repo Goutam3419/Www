@@ -1,1 +1,2 @@
-#!/bin/sh\necho ok\n
+#!/bin/sh
+echo ok

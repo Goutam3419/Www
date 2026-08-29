@@ -1,1 +1,3 @@
-class Service35:\n    def run(self):\n        return 35\n
+class Service35:
+    def run(self):
+        return 35

@@ -1,1 +1,1 @@
-# coder 10\n
+# coder 10

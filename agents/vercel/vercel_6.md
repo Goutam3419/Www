@@ -1,1 +1,1 @@
-# vercel 6\n
+# vercel 6

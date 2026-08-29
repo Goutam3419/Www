@@ -1,1 +1,1 @@
-# coder 6\n
+# coder 6

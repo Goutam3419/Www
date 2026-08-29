@@ -1,1 +1,2 @@
-class Model12:\n    pass\n
+class Model12:
+    pass

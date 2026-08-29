@@ -1,1 +1,1 @@
-# supabase 8\n
+# supabase 8

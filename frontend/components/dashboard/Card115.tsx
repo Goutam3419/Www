@@ -1,0 +1,1 @@
+export default function Card115(){return <div>Card 115</div>}

@@ -1,0 +1,1 @@
+export default function P71(){return <div>Project 71</div>}

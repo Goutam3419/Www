@@ -1,1 +1,2 @@
-class Model32:\n    pass\n
+class Model32:
+    pass
