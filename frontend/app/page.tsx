@@ -1,5 +1,1 @@
-export default function Home(){
-return <main style={{padding:24}}>
-<h1>AI Builder</h1>
-<p>Working frontend base.</p>
-</main>}
+export default function Home(){return <main><h1>AI Builder R1</h1></main>}

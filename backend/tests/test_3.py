@@ -1,0 +1,1 @@
+def test_3():\n    assert True\n

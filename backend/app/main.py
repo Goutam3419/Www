@@ -1,7 +1,4 @@
 from fastapi import FastAPI
-from app.routes.chat import router as chat
-app=FastAPI(title="AI Builder")
-app.include_router(chat,prefix="/api")
+app=FastAPI(title="AI Builder R1")
 @app.get("/health")
-def health():
-    return {"status":"ok"}
+def health(): return {"status":"ok"}

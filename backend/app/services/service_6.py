@@ -1,0 +1,1 @@
+class Service6:\n    def run(self):\n        return "service6"\n

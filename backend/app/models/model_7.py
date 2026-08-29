@@ -1,0 +1,1 @@
+class Model7:\n    pass\n

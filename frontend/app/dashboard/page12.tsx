@@ -1,0 +1,1 @@
+export default function Page12(){return <div>Dashboard Page 12</div>}
