@@ -1,0 +1,1 @@
+export default function GitHub(){return <main style={{padding:24}}><h1>GitHub Agent</h1></main>}

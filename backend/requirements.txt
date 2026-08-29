@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-supabase
-google-genai
-python-dotenv
+PyJWT
+cryptography
+httpx
