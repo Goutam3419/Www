@@ -1,2 +1,2 @@
 class Model8:
-    pass
+    id=None

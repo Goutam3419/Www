@@ -1,2 +1,2 @@
 class Model80:
-    pass
+    id=None

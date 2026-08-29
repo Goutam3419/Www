@@ -1,2 +1,2 @@
 class Model64:
-    pass
+    id=None

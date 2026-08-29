@@ -1,2 +1,2 @@
 class Model76:
-    pass
+    id=None

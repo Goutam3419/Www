@@ -1,3 +1,8 @@
+
 class Service39:
-    def run(self):
-        return 39
+    def execute(self,payload:dict):
+        return {{
+            "service":"Service39",
+            "payload":payload,
+            "status":"ok"
+        }}

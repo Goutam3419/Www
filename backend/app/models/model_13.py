@@ -1,2 +1,2 @@
 class Model13:
-    pass
+    id=None
