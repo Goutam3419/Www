@@ -1,0 +1,1 @@
+export default function Page(){return <main className='p-6'><h1>GitHub Builder 39</h1></main>}
