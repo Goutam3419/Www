@@ -1,2 +1,2 @@
-# AI Builder v6
-AI Coder Agent foundation.
+# AI Builder v7
+Real GitHub App integration foundation.

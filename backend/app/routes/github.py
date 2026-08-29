@@ -1,6 +1,10 @@
 from fastapi import APIRouter
-router=APIRouter()
+from app.services.github_app import GitHubAppService
+from app.models.github import CreateRepoRequest
 
-@router.post("/github/repo")
-def create_repo():
-    return {"status":"foundation","next":"GitHub App integration in v6"}
+router=APIRouter()
+service=GitHubAppService()
+
+@router.post("/github/create-repo")
+def create_repo(body: CreateRepoRequest):
+    return service.create_repository(body.repo_name)
