@@ -1,1 +1,1 @@
-# ZIP22 Component Tree + Layout Planner
+# ZIP23 Next.js File Generator
