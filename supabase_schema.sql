@@ -1,16 +1,3 @@
-create table projects(
- id uuid primary key,
- name text,
- github_repo text,
- vercel_project text,
- status text,
- created_at timestamp default now()
-);
-
-create table agent_tasks(
- id uuid primary key,
- project_id uuid,
- agent text,
- status text,
- output jsonb
-);
+create table projects(id uuid primary key,name text,status text);
+create table messages(id uuid primary key,project_id uuid,role text,content text);
+create table agent_tasks(id uuid primary key,project_id uuid,agent text,status text);
