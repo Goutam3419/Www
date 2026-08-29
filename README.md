@@ -1,1 +1,1 @@
-# ZIP17 Gemini Chat Engine
+# ZIP18 Streaming & Memory
