@@ -1,1 +1,1 @@
-# ZIP16 Supabase Auth Foundation
+# ZIP17 Gemini Chat Engine
