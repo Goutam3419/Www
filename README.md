@@ -1,2 +1,2 @@
-# AI Builder v3
-Chat UI + streaming foundation.
+# AI Builder v4
+Planner Agent + Supabase planning foundation.
