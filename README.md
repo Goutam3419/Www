@@ -1,2 +1,2 @@
-# AI Builder R1
-Production base.
+# AI Builder R2
+Expanded production scaffold with GitHub/Supabase/Vercel integration points.

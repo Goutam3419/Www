@@ -1,0 +1,1 @@
+class Model24:\n    pass\n

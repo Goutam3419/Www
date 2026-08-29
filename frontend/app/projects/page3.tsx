@@ -1,0 +1,1 @@
+export default function P3(){return <div>Project 3</div>}

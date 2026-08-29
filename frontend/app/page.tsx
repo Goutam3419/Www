@@ -1,1 +1,1 @@
-export default function Home(){return <main><h1>AI Builder R1</h1></main>}
+export default function Home(){return <main><h1>AI Builder R2</h1></main>}

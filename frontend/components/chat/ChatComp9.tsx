@@ -1,0 +1,1 @@
+export default function ChatComp9(){return <div>ChatComp 9</div>}

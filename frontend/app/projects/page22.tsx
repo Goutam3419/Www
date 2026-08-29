@@ -1,0 +1,1 @@
+export default function P22(){return <div>Project 22</div>}

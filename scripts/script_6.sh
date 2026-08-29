@@ -1,1 +1,1 @@
-#!/bin/sh\necho script\n
+#!/bin/sh\necho ok\n

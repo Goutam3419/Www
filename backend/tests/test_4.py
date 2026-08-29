@@ -1,1 +1,1 @@
-def test_4():\n    assert True\n
+def test_ok():\n    assert True\n
