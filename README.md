@@ -1,1 +1,1 @@
-# ZIP21 Intent + Sitemap + Blueprint
+# ZIP22 Component Tree + Layout Planner

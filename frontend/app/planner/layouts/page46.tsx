@@ -1,0 +1,1 @@
+export default function Page(){return <main className='p-6'><h1>Layout Planner 46</h1></main>}
