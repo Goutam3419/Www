@@ -1,0 +1,1 @@
+export default function Page(){return <main className='p-6'><h1>Branch Manager 2</h1></main>}
