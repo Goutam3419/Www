@@ -1,1 +1,1 @@
-export default function P46(){return <div>Project 46</div>}
+export default function Page(){return <main className='p-6'><h1>Project 46</h1></main>}
