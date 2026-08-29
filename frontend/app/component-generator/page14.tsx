@@ -1,0 +1,1 @@
+export default function Page(){return <main className='p-6'><h1>Component Generator 14</h1></main>}

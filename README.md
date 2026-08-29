@@ -1,1 +1,1 @@
-# ZIP23 Next.js File Generator
+# ZIP24 React Component Generator (scaffold)
