@@ -1,6 +1,0 @@
-{
-  "name": "AI CEO Agent",
-  "description": "Enterprise Autonomous AI CEO Platform for Workspace, Project Management, Planning, Architecture & Code Generation",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
