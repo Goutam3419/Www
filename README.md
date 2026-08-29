@@ -1,1 +1,1 @@
-# ZIP19 Chat Orchestrator
+# ZIP20 Planner Agent Foundation
