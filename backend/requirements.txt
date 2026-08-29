@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-PyJWT
-cryptography
+google-genai
 httpx
+python-dotenv
