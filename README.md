@@ -1,2 +1,2 @@
-# AI Builder v8
-Supabase Management API integration foundation.
+# AI Builder v9
+Vercel Agent + QA retry foundation.
