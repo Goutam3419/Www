@@ -1,1 +1,1 @@
-export default function Page17(){return <div>Dashboard Page 17</div>}
+export default function Page(){return <main className='p-6'><h1>Dashboard Page 17</h1></main>}

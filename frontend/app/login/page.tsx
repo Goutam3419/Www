@@ -1,1 +1,1 @@
-export default function Login(){return <main style={{padding:40}}><h2>Login</h2></main>}
+export default function Login(){return <main className='p-6'><h1>Login</h1></main>}

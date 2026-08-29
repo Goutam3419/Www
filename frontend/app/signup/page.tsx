@@ -1,1 +1,1 @@
-export default function Signup(){return <main style={{padding:40}}><h2>Signup</h2></main>}
+export default function Signup(){return <main className='p-6'><h1>Signup</h1></main>}
