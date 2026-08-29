@@ -1,1 +1,1 @@
-# ZIP15 Backend Core Upgrade
+# ZIP16 Supabase Auth Foundation
