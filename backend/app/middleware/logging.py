@@ -1,0 +1,2 @@
+class LoggingMiddleware:
+    pass

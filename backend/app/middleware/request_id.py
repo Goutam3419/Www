@@ -1,1 +1,2 @@
-from starlette.middleware.base import BaseHTTPMiddleware
+class RequestIdMiddleware:
+    pass
