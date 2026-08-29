@@ -1,1 +1,1 @@
-# ZIP24 React Component Generator (scaffold)
+# ZIP25 Route Code Assembler

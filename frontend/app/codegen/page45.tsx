@@ -1,0 +1,1 @@
+export default function Page(){return <main className='p-6'><h1>Codegen 45</h1></main>}
