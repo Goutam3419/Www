@@ -1,0 +1,362 @@
+# Gemini Streaming Plan
+
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry
+- SSE endpoint
+- Chat memory
+- Retry

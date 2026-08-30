@@ -1,6 +1,1 @@
-{
- "name":"lovable-clone",
- "private":true,
- "scripts":{"dev":"next dev","build":"next build"},
- "dependencies":{"next":"15","react":"19","react-dom":"19","@supabase/supabase-js":"latest"}
-}
+{"dependencies":{"next":"15","react":"19","react-dom":"19","@google/genai":"latest"}}
