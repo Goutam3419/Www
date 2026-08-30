@@ -1,1 +1,0 @@
-export default function Editor9(){return <div>Editor 9</div>}

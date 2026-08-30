@@ -1,1 +1,0 @@
-export default function Card1(){return <div>Card 1</div>}

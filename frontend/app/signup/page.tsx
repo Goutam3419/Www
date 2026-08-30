@@ -1,1 +1,0 @@
-export default function Signup(){return <main className='p-6'><h1>Signup</h1></main>}

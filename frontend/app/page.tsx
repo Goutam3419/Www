@@ -1,1 +1,0 @@
-export default function Home(){return <main><h1>AI Builder FINAL</h1></main>}

@@ -1,1 +1,0 @@
-export default function Chat(){return <main><h1>Gemini Chat</h1></main>}

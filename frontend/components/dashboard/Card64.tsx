@@ -1,1 +1,0 @@
-export default function Card64(){return <div>Card 64</div>}

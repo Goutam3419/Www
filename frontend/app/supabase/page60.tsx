@@ -1,1 +1,0 @@
-export default function Page(){return <main className='p-6'><h1>Supabase Builder 60</h1></main>}

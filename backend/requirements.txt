@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-httpx
-PyJWT
-cryptography
-google-genai
-supabase
-python-dotenv

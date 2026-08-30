@@ -1,1 +1,0 @@
-# streaming chat route placeholder

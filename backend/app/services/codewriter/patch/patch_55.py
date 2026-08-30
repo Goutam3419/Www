@@ -1,4 +1,0 @@
-
-class PatchEngine55:
-    def apply(self,file:str):
-        return {"status":"patched","file":file}

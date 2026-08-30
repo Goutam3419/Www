@@ -1,1 +1,0 @@
-export default function Coder(){return <main style={{padding:24}}><h1>AI Coder Agent</h1></main>}

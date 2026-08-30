@@ -1,1 +1,0 @@
-export default function Editor65(){return <div>Editor 65</div>}

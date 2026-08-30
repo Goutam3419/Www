@@ -1,1 +1,0 @@
-export default function Page(){return <main className='p-6'><h1>AI Code Writer 50</h1></main>}

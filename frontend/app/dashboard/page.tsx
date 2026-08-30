@@ -1,1 +1,0 @@
-export default function Dashboard(){return <main style={{padding:40}}><h2>Dashboard</h2></main>}

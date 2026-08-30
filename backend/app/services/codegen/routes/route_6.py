@@ -1,3 +1,0 @@
-class RouteGenerator6:
-    def generate(self,name:str):
-        return {"route":name,"status":"generated"}

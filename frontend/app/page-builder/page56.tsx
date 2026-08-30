@@ -1,1 +1,0 @@
-export default function Page(){return <main className='p-6'><h1>Page Builder 56</h1></main>}

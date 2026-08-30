@@ -1,1 +1,0 @@
-export default function Editor80(){return <div>Editor 80</div>}

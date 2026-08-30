@@ -1,1 +1,0 @@
-export default function P73(){return <div>Project 73</div>}
