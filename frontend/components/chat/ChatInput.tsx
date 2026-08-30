@@ -1,1 +1,0 @@
-export default function ChatInput(){return <textarea className="w-full border p-3 rounded"/>}
